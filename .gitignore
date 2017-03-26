@@ -1,0 +1,8 @@
+.vagrant/
+bin/
+pkg/
+src/github.com/
+src/golang.org/
+src/sourcegraph.com/
+
+*.log
