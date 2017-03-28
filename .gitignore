@@ -4,5 +4,6 @@ pkg/
 src/github.com/
 src/golang.org/
 src/sourcegraph.com/
+src/k8s.io/
 
 *.log
